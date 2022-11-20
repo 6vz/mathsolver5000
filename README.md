@@ -6,8 +6,9 @@ app made mainly for fun & learn kotlin
 check releases page
 
 # build
-1. clone
+1. clone using `git clone https://github.com/6vz/mathsolver5000` or simply download using website feat.
 2. open in android studio
+3. build > build Bundle(s)/apk > build apk
 
 # credits
 none ig
